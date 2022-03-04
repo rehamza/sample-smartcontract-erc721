@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Mid Circle",
+      "value" : "Yellow"
+    }, {
+      "trait_type" : "Each Window Color",
+      "value" : "Blue"
+    } ],
+    "description" : "The world's most fine Art.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmXg3yCeek914JkUBLJeNK1ZTV5Mf9BrgyK3BXwDG7QNgi",
+    "name" : "Fine Art"
+}
